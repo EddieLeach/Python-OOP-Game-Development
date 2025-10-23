@@ -1,0 +1,16 @@
+[project]
+name = "alien-invasion"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["pygame>=2.5,<3.0"]
+
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
+select = ["E","F","I","B","UP"]
+exclude = ["src/alien_invasion/images"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
