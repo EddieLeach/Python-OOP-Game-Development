@@ -40,4 +40,4 @@ This project strengthened my debugging, problem-solving, and GenAI-assisted trou
 
 ---
 
-[Gameplay Demo](alien invasin edit - Made with Clipchamp.gif)
+![Gameplay Demo](alien invasin edit - Made with Clipchamp.gif)
